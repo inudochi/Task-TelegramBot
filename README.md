@@ -9,4 +9,4 @@
 ![Скриншот из Telegram](https://github.com/user-attachments/assets/780d130c-8b66-44ee-b10a-d651ac4187fb)
 
 ## Архитектура
-![UML диаграмма]( src="https://github.com/user-attachments/assets/d4b75c89-5609-4003-9024-a38bebbfce8d)
+![UML диаграмма](https://github.com/user-attachments/assets/d4b75c89-5609-4003-9024-a38bebbfce8d)
